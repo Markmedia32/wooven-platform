@@ -16,7 +16,7 @@ import {
 import heroImage from "../../assets/Tourist in the Back.png";
 import arrivalImage from "../../assets/Arrivals.png";
 import journeyImage from "../../assets/Landcruiser on Naivasha Rd.png";
-import supportImage from "../../assets/Track_Route.png";
+import supportImage from "../../assets/Track_route.png";
 
 const experienceSteps = [
   {

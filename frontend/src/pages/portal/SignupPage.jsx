@@ -16,7 +16,7 @@ import {
 
 import { useAuth } from "../../context/AuthContext";
 import logo from "../../assets/Logo.png";
-import welcomeImage from "../../assets/Hero.png";
+import welcomeImage from "../../assets/hero.png";
 
 function passwordScore(password) {
   const conditions = [
